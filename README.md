@@ -5,5 +5,5 @@ Modelisation d'un vaisseau spatial
 Outil :
 Réalisé avec cinéma 4d 
 
-Drag and droper le fichier GLB sur le site  babylonjs ( https://sandbox.babylonjs.com/ )
+Drag and droper le fichier GLB (dézippé) sur le site  babylonjs ( https://sandbox.babylonjs.com/ )
 
